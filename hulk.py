@@ -33,7 +33,7 @@ print('''
     *           |_||_|\___/|____|_|\_\             *
     *                                              *
     *          HTTP Unbearable Load King           *
-    *          Author: Sumalya Chatterjee          *
+    *          Author: Con Tho Ban Sung          *
     *                                              *
     ************************************************
     ************************************************
@@ -57,7 +57,7 @@ print('''
     *           |_||_|\___/|____|_|\_\             *
     *                                              *
     *          HTTP Unbearable Load King           *
-    *          Author: Sumalya Chatterjee          *
+    *          Author: Con Tho Ban Sung          *
     *                                              *
     ************************************************
 
